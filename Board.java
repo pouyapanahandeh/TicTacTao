@@ -1,6 +1,3 @@
-package models;
-
-
 public class Board {
     private int[][] Board= new int[3][3];
 

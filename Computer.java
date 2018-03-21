@@ -1,5 +1,3 @@
-package models;
-
 public class Computer extends Player{
 
     public Computer(int player){
